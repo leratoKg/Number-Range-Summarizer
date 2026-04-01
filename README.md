@@ -47,7 +47,6 @@ This project implements a solution to summarize a list of integers into a compac
 
 Run the following command:
 
-NB: Please insure you run the command in the summarizer folder
 ```
 mvn test
 ```
